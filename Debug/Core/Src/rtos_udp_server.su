@@ -1,0 +1,2 @@
+rtos_udp_server.c:35:13:tcpecho_thread	24	static
+rtos_udp_server.c:92:6:tcpecho_init	16	static

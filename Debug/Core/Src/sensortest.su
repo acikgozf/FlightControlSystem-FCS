@@ -1,0 +1,3 @@
+sensortest.c:20:6:sensorTest_init	8	static
+sensortest.c:25:6:sensorTest_print_acc_values	144	static
+sensortest.c:37:6:sensorTest_print_gyro_values	144	static

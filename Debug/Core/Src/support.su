@@ -1,0 +1,12 @@
+support.c:12:6:UART_SendChar	16	static
+support.c:21:6:UART_SendStr	16	static
+support.c:33:6:Toggle_LED	4	static
+support.c:39:6:UART_SendBufHex	24	static
+support.c:48:6:UART_SendHex8	16	static
+support.c:53:6:UART_SendInt	32	static
+support.c:79:8:nRF24_CE_L	8	static
+support.c:83:8:nRF24_CE_H	8	static
+support.c:87:8:nRF24_CSN_L	8	static
+support.c:91:8:nRF24_CSN_H	8	static
+support.c:96:11:nRF24_LL_RW	32	static
+support.c:106:8:Delay_ms	16	static

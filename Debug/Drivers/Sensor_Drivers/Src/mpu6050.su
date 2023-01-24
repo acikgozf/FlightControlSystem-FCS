@@ -1,0 +1,12 @@
+mpu6050.c:35:6:mpu6050_init	8	static
+mpu6050.c:42:17:MPU6050_initialize	24	static
+mpu6050.c:60:17:MPU6050_set_gyro_range	24	static
+mpu6050.c:81:17:MPU6050_set_acc_range	24	static
+mpu6050.c:102:17:MPU6050_test_sensor	16	static
+mpu6050.c:110:9:MPU6050_read_id	16	static
+mpu6050.c:117:17:MPU6050_set_sleep_mode	24	static
+mpu6050.c:136:17:MPU6050_read_data	32	static
+mpu6050.c:167:6:sensorTest_init	8	static
+mpu6050.c:172:6:sensorTest_print_acc_values	144	static
+mpu6050.c:184:6:sensorTest_print_gyro_values	144	static
+mpu6050.c:198:6:get_Imu	96	static

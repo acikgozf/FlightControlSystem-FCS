@@ -1,0 +1,3 @@
+udpClientRAW.c:51:6:udpClient_connect	24	static
+udpClientRAW.c:78:7:udpClient_send	120	static
+udpClientRAW.c:102:6:udp_receive_callback	24	static

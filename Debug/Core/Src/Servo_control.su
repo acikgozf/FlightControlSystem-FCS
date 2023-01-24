@@ -1,0 +1,2 @@
+Servo_control.c:50:6:control_init	8	static
+Servo_control.c:79:6:control_start	128	static

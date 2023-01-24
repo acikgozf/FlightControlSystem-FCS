@@ -1,0 +1,11 @@
+GPS.c:34:7:strtoke	24	static
+GPS.c:70:9:calc_info	96	static
+GPS.c:123:6:NMEA_GPGGAParse	72	static
+GPS.c:187:6:NMEA_GPRMCParse	80	static
+GPS.c:263:9:NEO6_UART_ReceiveChar	32	static
+GPS.c:321:6:NMEA_MessageParse	24	static
+GPS.c:359:6:NEO6_PrintInfo	216	static
+GPS.c:405:7:NEO6_GetLocation	48	static
+GPS.c:427:7:NEO6_GetDateTime	16	static
+GPS.c:447:8:NEO6_GetAltitude	24	static
+GPS.c:467:9:NEO6_Init	16	static

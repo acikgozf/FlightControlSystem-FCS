@@ -1,0 +1,7 @@
+MPU9250.c:17:17:MPU6050_initialize	24	static
+MPU9250.c:35:17:MPU6050_set_gyro_range	24	static
+MPU9250.c:56:17:MPU6050_set_acc_range	24	static
+MPU9250.c:77:17:MPU6050_test_sensor	16	static
+MPU9250.c:85:9:MPU6050_read_id	16	static
+MPU9250.c:92:17:MPU6050_set_sleep_mode	24	static
+MPU9250.c:111:17:MPU6050_read_data	32	static

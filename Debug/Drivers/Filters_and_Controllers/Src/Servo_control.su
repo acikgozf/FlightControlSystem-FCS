@@ -1,0 +1,2 @@
+servo_control.c:60:6:control_init	8	static
+servo_control.c:84:6:control_start	160	static

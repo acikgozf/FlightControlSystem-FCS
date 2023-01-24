@@ -1,0 +1,7 @@
+neo_m8n_gps.c:36:6:m8n_ubx_init	8	static
+neo_m8n_gps.c:47:15:m8n_ubx_default_config	24	static
+neo_m8n_gps.c:66:15:m8n_ubx_checksum_check	24	static
+neo_m8n_gps.c:83:16:m8n_ubx_parsing	24	static
+neo_m8n_gps.c:105:6:m8n_ubx_take_data	8	static
+neo_m8n_gps.c:125:6:HAL_UART_RxCpltCallback	16	static
+neo_m8n_gps.c:167:6:HAL_UART_TxCpltCallback	16	static

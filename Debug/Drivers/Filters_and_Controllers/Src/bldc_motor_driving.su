@@ -1,0 +1,2 @@
+bldc_motor_driving.c:15:6:esc_initialize	8	static
+bldc_motor_driving.c:25:6:esc_control	24	static
