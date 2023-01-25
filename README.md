@@ -1,6 +1,6 @@
-# Ucus_Kontrol_Sistemi
+# STM32 based Flight Control System
 
-
+End-to-end designed flight control system.
 
 ### Features
 - Robust Gain-Scheduled PID control for Actuator and BLDC motor
