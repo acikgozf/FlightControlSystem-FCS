@@ -10,3 +10,4 @@ End-to-end designed flight control system that has without any RTOS middleware.
 - Connection ability to GCS over lwIP(TCP/UDP)
 
 
+![FCS (1)](https://github.com/acikgozf/FlightControlSystem-FCS/assets/56433607/3f5889f1-52e7-45c0-baf4-60acc3bc0a30)
